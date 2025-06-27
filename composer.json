@@ -1,5 +1,5 @@
 {
-    "name": "beyondcode/laravel-websockets",
+    "name": "mal1k/laravel-websockets",
     "description": "An easy to launch a Pusher-compatible WebSockets server for Laravel.",
     "keywords": [
         "beyondcode",
@@ -11,20 +11,8 @@
     "homepage": "https://github.com/beyondcode/laravel-websockets",
     "authors": [
         {
-            "name": "Marcel Pociot",
-            "email": "marcel@beyondco.de",
-            "homepage": "https://beyondcode.de",
-            "role": "Developer"
-        },
-        {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "homepage": "https://spatie.be",
-            "role": "Developer"
-        },
-        {
-            "name": "Alex Renoki",
-            "homepage": "https://github.com/rennokki",
+            "name": "Alex",
+            "email": "alex@adavay.agency",
             "role": "Developer"
         }
     ],
@@ -38,12 +26,12 @@
         "evenement/evenement": "^2.0|^3.0",
         "facade/ignition-contracts": "^1.0",
         "guzzlehttp/psr7": "^1.5",
-        "illuminate/broadcasting": "^9.0",
-        "illuminate/console": "^9.0",
-        "illuminate/http": "^9.0",
-        "illuminate/queue": "^9.0",
-        "illuminate/routing": "^9.0",
-        "illuminate/support": "^9.0",
+        "illuminate/broadcasting": "^9.0|^10.0|^11.0|^12.0",
+        "illuminate/console": "^9.0|^10.0|^11.0|^12.0",
+        "illuminate/http": "^9.0|^10.0|^11.0|^12.0",
+        "illuminate/queue": "^9.0|^10.0|^11.0|^12.0",
+        "illuminate/routing": "^9.0|^10.0|^11.0|^12.0",
+        "illuminate/support": "^9.0|^10.0|^11.0|^12.0",
         "pusher/pusher-php-server": "^6.0|^7.0",
         "react/mysql": "^0.5",
         "react/promise": "^2.8",
